@@ -1,0 +1,169 @@
+<!DOCTYPE HTML>
+<html>
+    <head>
+        <title>2021 융합콘텐츠 창업지원 교육멘토링 메인</title>
+        <meta name="Generator" content="ideadream">
+        <meta name="Author" content="dhkdneodrmf">
+        <meta name="Keywords" content="경기콘텐츠진흥원">
+        <meta name="Description" content="경기콘텐츠진흥원 2021 융합콘텐츠 창업지원 교육멘토링 안내/예약 사이트">
+        <meta charset="utf-8">
+        <link rel="preconnect" href="https://fonts.gstatic.com">
+        <link href="https://fonts.googleapis.com/css2?family=Nanum+Gothic:wght@400;700;800&display=swap" rel="stylesheet">
+        <link rel="stylesheet" href="css/basic.css">
+        <!--<script src="script/prefixfree.min.js"></script>-->
+    </head>
+    <body>
+        <header class="wrapping">
+            <h1 id="title"><a href="http://keep.ideadream.co.kr/">2021 융합콘텐츠 창업지원 교육멘토링</a></h1>
+            <ul id="menu">
+                <li><a href="http://keep.ideadream.co.kr/edulist.html">창업교육</a></li>
+                <li><a href="http://keep.ideadream.co.kr/mentoringlist.html">멘토링</a></li>
+            </ul>
+        </header>
+        <!--<hr style="border:0.5px solid #707070;">-->
+        <div id="backgroundgray">
+            <section id ="board" class="wrapping">
+                <div id="guide">
+                    <a href="http://keep.ideadream.co.kr/edulist.html"><p>창업교육</p><p>확인하기</p></a>
+                    <a href="http://keep.ideadream.co.kr/mentoringlist.html"><p>멘토링</p><p>신청하기</p></a>
+                    <p>융합콘텐츠 창업지원</p>
+                    <p>교육멘토링 안내</p>
+                    <p>2021 융합콘텐츠 창업지원사업에 선정된 창업기업의 창업역량 강화와<br> 창업성공을 지원하고자
+                    지식재산권, 제품개발전략, 세무·회계, 투자유치<br> 등의 다양한 분야의 창업교육과 멘토링을 지원합니다.</p>
+                </div>
+                <div id="divde">
+                    <article id="edu">
+                        <h1>창업교육</h1>
+                        <div>
+                            <a href="http://keep.ideadream.co.kr/edudetail1.html">
+                                <p>온라인 강의</p>
+                                <div>
+                                    <span>1강</span>
+                                    <p>6월 15일 (화) 19시</p>
+                                    <p>비즈니스 모델의 구성요소 및 구축전략</p>
+                                </div>
+                            </a>
+                            <a href="http://keep.ideadream.co.kr/edudetail2.html">
+                                <p>온라인 강의</p>
+                                <div>
+                                    <span>2강</span>
+                                    <p>6월 22일 (화) 19시</p>
+                                    <p>린스타트업기반 시장검증과 마케팅 전략</p>
+                                </div>
+                            </a>
+                            <a href="http://keep.ideadream.co.kr/edudetail3.html">
+                                <p>온라인 강의</p>
+                                <div>
+                                    <span>3강</span>
+                                    <p>6월 29일 (화) 19시</p>
+                                    <p>제품(하드웨어) 개발의 이해</p>
+                                </div>
+                            </a>
+                            <a href="http://keep.ideadream.co.kr/edudetail4.html">
+                                <p>온라인 강의</p>
+                                <div>
+                                    <span>4강</span>
+                                    <p>7월 6일 (화) 19시</p>
+                                    <p>소프트웨어(사이트/플랫폼) 개발의 이해</p>
+                                </div>
+                            </a>
+                            <a href="http://keep.ideadream.co.kr/edudetail5.html">
+                                <p>온라인 강의</p>
+                                <div>
+                                    <span>5강</span>
+                                    <p>7월 13일 (화) 19시</p>
+                                    <p>오픈클래스 : 선배기업 초청특강</p>
+                                </div>
+                            </a>
+                            <a href="http://keep.ideadream.co.kr/edudetail6.html">
+                                <p>온라인 강의</p>
+                                <div>
+                                    <span>6강</span>
+                                    <p>7월 20일 (화) 19시</p>
+                                    <p>스타트업을 위한 법률, 세무, 회계 상식</p>
+                                </div>
+                            </a>
+                            <a href="http://keep.ideadream.co.kr/edudetail7.html">
+                                <p>온라인 강의</p>
+                                <div>
+                                    <span>7강</span>
+                                    <p>7월 27일 (화) 19시</p>
+                                    <p>특허와 지식재산권 그리고 IP금융의 이해</p>
+                                </div>
+                            </a>
+                            <a href="http://keep.ideadream.co.kr/edudetail8.html">
+                                <p>온라인 강의</p>
+                                <div>
+                                    <span>8강</span>
+                                    <p>8월 3일 (화) 19시</p>
+                                    <p>IR 역량강화&초기상품 판매, 마케팅 전략</p>
+                                </div>
+                            </a>
+                        </div>
+                    </article>
+                    <article id="mentoring">
+                        <h1>멘토링</h1>
+                        <div>
+                            <a href="http://keep.ideadream.co.kr/mentoringdetail1.html">
+                                <div>
+                                    <p>1st<span><br>멘토링데이</span></p>
+                                    <p>창업준비</p>
+                                    <p>7월 1일 (목) 북부창조허브</p>
+                                </div>
+                            </a>
+                            <a href="http://keep.ideadream.co.kr/mentoringdetail2.html">
+                                <div>
+                                    <p>2nd<span><br>멘토링데이</span></p>
+                                    <p>제품개발</p>
+                                    <p>7월 15일 (목) 북부창조허브</p>
+                                </div>
+                            </a>
+                            <a href="http://keep.ideadream.co.kr/mentoringdetail3.html">
+                                <div>
+                                    <p>3rd<span><br>멘토링데이</span></p>
+                                    <p>창업운영</p>
+                                    <p>8월 5일 (목) 북부창조허브</p>
+                                </div>
+                            </a>
+                            <a href="http://keep.ideadream.co.kr/mentoringdetail4.html">
+                                <div>
+                                    <p>4th<span><br>멘토링데이</span></p>
+                                    <p>제품개발&투자유치</p>
+                                    <p>8월 12일 (목) 북부창조허브</p>
+                                </div>
+                            </a>
+                        </div>
+                    </article>
+                </div>
+            </section>
+            <section id="link" class="wrapping">
+                <a href="#">
+                    <h2>교육멘토링 소통방</h2>
+                    <p>융합콘텐츠 창업지원 교육멘토링은 잔디를 통해<br> 소통합니다.</p>
+                </a>
+                <a href="#">
+                    <h2>창업교육 수강방법</h2>
+                    <p>온라인으로 진행되는<br>창업교육 수강하는 방법을 안내드립니다.</p>
+                </a>
+                <a href="#">
+                    <h2>멘토링 신청방법</h2>
+                    <p>희망자에 한하여<br>이미 진행된 창업교육을 복습할 수 있습니다.</p>
+                </a>
+                <a href="#">
+                    <h2>교육멘토링 소통방</h2>
+                    <p>희망하는 멘토링 진행을 위한<br> 멘토링 신청방법을 안내드립니다.</p>
+                </a>
+            </section>
+        </div>
+        <footer class="wrapping">
+            <div id="title">
+            <h1><a href="http://keep.ideadream.co.kr/">2021 융합콘텐츠 창업지원 교육멘토링</a></h1>
+            <p>COPYRIGHT ©(주)아이디어드림 ALL RIGHTS RESERVED.</p>
+            </div>
+            <div id="qusetion">
+            <h1>교육멘토링 문의</h1>
+            <p>T. 02-706-8290 ｜ M. 010-9459-9467 ｜ E. ideadream@ideadream.co.kr</p>
+            </div>
+        </footer>
+    </body>
+</html>

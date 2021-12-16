@@ -1,0 +1,133 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
+<html>
+ <head>
+  <title> 아이디어드림</title>
+  <meta name="Generator" content="ideadream">
+  <meta name="Author" content="ideadream">
+  <meta name="Keywords" content="ideadream">
+  <meta name="Description" content="homepage">
+    <style type ="text/css">
+        #tnb_left{
+            width:20%;
+            float:left;
+            margin:0 0 0 1em; 
+        }
+        #tnb_right{
+            width:79%;
+            float:right;
+        }
+        #tnb_right ul li {             /* topMenu의 ID를 가진 태그 안에 <ul> 태그 안에 <li> 태그의 스타일을 지정*/
+           list-style: none;           /* <li> 태그는 위의 이미지처럼 목록을 나타내는 점을 없앤다 */
+           color: white;               /* 글씨 색을 흰색으로 설정*/
+           background-color: #2d2d2d;  /* 배경색을 진한 회색(RGB(2D,2D,2D)으로 설정*/
+           float: right;                /* <li>태그들이 왼쪽에 흐르게 설정(그러면 아래있는 내용은 오른쪽으로 옴)*/
+           line-height: 30px;          /* 글씨가 가운데로 오도록 설정하기 위해 한줄의 높이를 30px로 설정*/
+           vertical-align: middle;     /* 세로 정렬을 가운데로 설정(위의 line-height와 같이 설정 필요함)*/
+           text-align: center;         /* 글씨 정렬을 가운데로 설정*/
+        }
+        #tnb_right .menuLink {                        /* topMenu 아이디를 가진 태그 안에 있는 menuLink 클래스 태그들의 스타일 설정*/
+           text-decoration:none;                      /* 링크(<a> 태그)가 가지는 기본 꾸밈 효과(밑줄 등)을 없앰*/
+           color: white;                              /* 폰트색을 흰색으로 설정*/
+           display: block;                            /* 링크를 글씨가 있는 부분 뿐만아니라 전체 영역을 클릭해도 링크가 걸리게 설정*/
+           width: 150px;                              /* 메뉴링크의 넓이 설정*/
+           font-size: 12px;                           /* 폰트 사이즈 12px로 설정*/
+           font-weight: bold;                         /* 폰트를 굵게*/
+           /*font-family: "Trebuchet MS", Dotum, Arial;  기본 폰트 적용, 시스템 폰트를 종류별로 순서대로*/
+        }
+        #tnb_right .menuLink:hover {            /*topMenu 아이디를 가진 태그 안에 menuLink클래스를 가진 태그에 마우스가 over되면 스타일 설정*/
+           color: red;                   /* 글씨 색을 붉은색으로 설정*/
+           background-color: #4d4d4d;    /* 배경색을 조금 더 밝은 회색으로 설정*/
+           }
+        #side_left{
+            width:10%;
+            height:700px;
+            background-color:yellow;
+            float:left;
+            margin:10px 10px 0 0;
+        }
+        #side_left ul li {             /* topMenu의 ID를 가진 태그 안에 <ul> 태그 안에 <li> 태그의 스타일을 지정*/
+           list-style: none;           /* <li> 태그는 위의 이미지처럼 목록을 나타내는 점을 없앤다 */
+           color: white;               /* 글씨 색을 흰색으로 설정*/
+           background-color: #2d2d2d;  /* 배경색을 진한 회색(RGB(2D,2D,2D)으로 설정*/
+           /*float: left;                /* <li>태그들이 왼쪽에 흐르게 설정(그러면 아래있는 내용은 오른쪽으로 옴)*/
+           line-height: 30px;          /* 글씨가 가운데로 오도록 설정하기 위해 한줄의 높이를 30px로 설정*/
+           vertical-align: middle;     /* 세로 정렬을 가운데로 설정(위의 line-height와 같이 설정 필요함)*/
+           text-align: center;         /* 글씨 정렬을 가운데로 설정*/
+        }
+        #side_left .menuLink {                        /* topMenu 아이디를 가진 태그 안에 있는 menuLink 클래스 태그들의 스타일 설정*/
+           text-decoration:none;                      /* 링크(<a> 태그)가 가지는 기본 꾸밈 효과(밑줄 등)을 없앰*/
+           color: white;                              /* 폰트색을 흰색으로 설정*/
+           display: block;                            /* 링크를 글씨가 있는 부분 뿐만아니라 전체 영역을 클릭해도 링크가 걸리게 설정*/
+           width: 150px;                              /* 메뉴링크의 넓이 설정*/
+           font-size: 12px;                           /* 폰트 사이즈 12px로 설정*/
+           font-weight: bold;                         /* 폰트를 굵게*/
+           /*font-family: "Trebuchet MS", Dotum, Arial;  기본 폰트 적용, 시스템 폰트를 종류별로 순서대로*/
+        }
+        #side_left .menuLink:hover {            /*topMenu 아이디를 가진 태그 안에 menuLink클래스를 가진 태그에 마우스가 over되면 스타일 설정*/
+           color: red;                   /* 글씨 색을 붉은색으로 설정*/
+           background-color: #4d4d4d;    /* 배경색을 조금 더 밝은 회색으로 설정*/
+           }
+        #mid_content{
+            width:90%;
+            height:700px;
+            background-color:green;
+            float:left;
+            margin:10px 0;
+        } /*
+        #side_rigth{
+            width:20%;
+            background-color:red;
+            float:left; */
+           /*  margin:5px; */ /*
+        } 
+        #side_rigth_box{
+            width:95%;
+            background-color:skyblue;
+           /* margin:5px; */ /*
+            margin-top:95%;
+        }  */
+        #footbar{
+            clear:both;
+            width:100%;
+            background-color:#8181F7;
+            padding:1px;
+            margin:1px;
+        }
+        </style>
+ </head>
+
+ <body>
+    <div id="tnb_left">
+        <a href="http://ideadream.iptime.org:8080"> <img src="/img/logo.png" alt="아이디어드림 로고"> </a>
+    </div>
+    <div id="tnb_right">
+        <ul>
+            <li><a class="menuLink" href="#">제휴문의</a></li>
+            <li><a class="menuLink" href="#">네트워크</a></li>
+            <li><a class="menuLink" href="#">사업소개</a></li>
+            <li><a class="menuLink" href="#">회사소개</a></li>
+         </ul>
+    </div>
+    <div style="clear:both;">
+        <div id = "side_left">회사소개
+            <ul>
+                <li><a class="menuLink" href="#">개요</a></li>
+                <li><a class="menuLink" href="#">연혁</a></li>
+                <li><a class="menuLink" href="#">비전</a></li>
+                <li><a class="menuLink" href="#">인증</a></li>
+            </ul>
+        </div>
+        <div id = "mid_content">
+            <div>본문 내용</div>
+        </div>
+<!--        <div id = "side_rigth">사이드바 오른쪽
+            <div id = "side_rigth_box">사이드바 오른쪽 아래</div>
+        </div>-->
+    </div>
+    <div id = "footbar">
+        <p style="float:left;margin:1em;"><a href="http://ideadream.iptime.org:8080"> <img src="/img/logo.png" alt="아이디어드림 로고"> </a></p>
+        <p>(주)아이디어드림 | 대표이사 박준석 | 개인정보 보호책임자 조영래</p>
+        <p>경기도 의정부시 신흥로 234, 11F(의정부동) | Email. ideadream@ideadream.co.kr | TEL. 02-706-8290</p>
+    </div>
+ </body>
+</html>

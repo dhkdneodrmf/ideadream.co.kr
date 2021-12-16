@@ -1,0 +1,131 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
+<html>
+ <head>
+  <title> 대메뉴 테스트 라이브러리 </title>
+  <meta name="Generator" content="ideadream">
+  <meta name="Author" content="조영래">
+  <meta name="Keywords" content="대메뉴 테스트 라이브러리 ">
+  <meta name="Description" content="대메뉴 테스트 라이브러리">
+<link rel="preconnect" href="https://fonts.gstatic.com">
+<link href="https://fonts.googleapis.com/css2?family=Noto+Sans+KR:wght@100;300;400;500;700;900&display=swap" rel="stylesheet">
+    <style>
+        * {
+        margin:0;
+        padding:0;
+        font-family: 'Noto Sans KR', sans-serif;
+    }
+        body {
+        width:1200px;
+        margin:10px auto;
+}
+        ul li {
+        list-style-type:none;
+}
+        a {
+        text-decoration:none;
+        color:black;
+}
+        .depth {
+        position:relative;
+        line-height:1.5em;
+}
+        .depth li {
+        position: relative;
+        float: left;
+        /* Permalink - use to edit and share this gradient: https://colorzilla.com/gradient-editor/#7db9e8+0,2989d8+50,207cca+51,7db9e8+100 */
+        background: #7db9e8; /* Old browsers */
+        background: -moz-linear-gradient(top,  #7db9e8 0%, #2989d8 50%, #207cca 51%, #7db9e8 100%); /* FF3.6-15 */
+        background: -webkit-linear-gradient(top,  #7db9e8 0%,#2989d8 50%,#207cca 51%,#7db9e8 100%); /* Chrome10-25,Safari5.1-6 */
+        background: linear-gradient(to bottom,  #7db9e8 0%,#2989d8 50%,#207cca 51%,#7db9e8 100%); /* W3C, IE10+, FF16+, Chrome26+, Opera12+, Safari7+ */
+        filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#7db9e8', endColorstr='#7db9e8',GradientType=0 ); /* IE6-9 */
+}
+        .depth li a {
+        display:block;
+        padding:10px 50px;
+        color:#FFFFFF;
+}
+        .depth li a:hover {
+        color:#A7CAE5;
+}
+        .depth li ul {
+        position: absolute;
+        width: 135px;
+        background:#EFEFFB;
+        opacity:0;
+        box-shadow: 0 12px 25px 0 rgba(0, 0, 0, 0.2); /* (Horizontal Length) (Vertical Length) (Blur Radius) (Spread) (RGBA) */
+        -webkit-box-shadow: 0 12px 25px 0 rgba(0, 0, 0, 0.2);
+}
+        .depth li:hover ul {
+        opacity:1;
+}
+        .depth li ul li {
+        float: none;
+        position: static;
+        height: 0;
+        line-height: 0;
+        background: none;
+        transition: all 0.2s;
+        -webkit-transition: all 0.2s;
+        -moz-transition: all 0.2s;
+        -ms-transition: all 0.2s;
+        -o-transition: all 0.2s;
+}
+        .depth li:hover ul li {
+        padding: 10px 0;
+        height: 30px;
+        line-height: 20px;
+        border-bottom: 1px dotted #eaeaea;
+}
+        .depth li ul li a {
+        padding:10px 0;
+        text-align:center;
+        color: #8e8776;
+}
+    </style>
+ </head>
+
+ <body>
+    <ul class="depth">
+        <li><a href="#">메뉴1</a>
+            <ul>
+                <li><a href="#">메뉴1-1</a></li>
+                <li><a href="#">메뉴1-2</a></li>
+                <li><a href="#">메뉴1-3</a></li>
+                <li><a href="#">메뉴1-4</a></li>
+            </ul>
+        </li>
+        <li><a href="#">메뉴2</a>
+            <ul>
+                <li><a href="#">메뉴2-1</a></li>
+                <li><a href="#">메뉴2-2</a></li>
+                <li><a href="#">메뉴2-3</a></li>
+                <li><a href="#">메뉴2-4</a></li>
+            </ul>
+        </li>
+        <li><a href="#">메뉴3</a>
+            <ul>
+                <li><a href="#">메뉴3-1</a></li>
+                <li><a href="#">메뉴3-2</a></li>
+                <li><a href="#">메뉴3-3</a></li>
+                <li><a href="#">메뉴3-4</a></li>
+            </ul>
+        </li>
+        <li><a href="#">메뉴4</a>
+            <ul>
+                <li><a href="#">메뉴4-1</a></li>
+                <li><a href="#">메뉴4-2</a></li>
+                <li><a href="#">메뉴4-3</a></li>
+                <li><a href="#">메뉴4-4</a></li>
+            </ul>
+        </li>
+        <li><a href="#">메뉴5</a>
+            <ul>
+                <li><a href="#">메뉴5-1</a></li>
+                <li><a href="#">메뉴5-2</a></li>
+                <li><a href="#">메뉴5-3</a></li>
+                <li><a href="#">메뉴5-4</a></li>
+            </ul>
+        </li>
+    </ul>
+ </body>
+</html>

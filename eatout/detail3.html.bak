@@ -1,0 +1,159 @@
+<!DOCTYPE HTML>
+<html>
+ <head>
+      <title> 아이디어드림 고기파티 상세 </title>
+      <meta name="Generator" content="joyeongrae">
+      <meta name="Author" content="ideadream">
+      <meta name="Keywords" content="고기파티">
+      <meta name="Description" content="고기파티 안내">
+      <meta charset="utf-8">
+      <style>
+        body {
+            font-family: 'GoyangDeogyang EB', 'Nanum Gothic', sans-serif;
+            width:80%;
+            margin:0 auto;
+        }
+        section {
+            margin:2vh 0;
+        }
+        h1,h2 {
+            margin:0;
+        }
+        .fullscore {
+            color:#808080;
+        }
+        div.star {
+            position:absolute;
+            width:37%;
+        }
+        span.star {
+            position:relative;
+            top:15px;
+        }
+        img.star {
+            vertical-align:middle;
+            padding:0 3px 5px;
+            width:20px;
+        }
+        a {
+            text-decoration:none;
+            color:inherit;
+        }
+        .pic {
+            margin:2px;
+            width:160px;
+            height:160px;
+            object-fit:cover;
+        }
+      </style>
+ </head>
+
+ <body>
+     <header>
+        <table width="100%">
+        <tr>
+            <td>
+                <h1 style="display:inline-block;font-size:35px;">고기파티<br>가산디지털단지 - 삼겹살</h1>
+                <div style="position:absolute;">
+                <span style="position:absolute;left:150px;bottom:40px;"><a href="https://map.naver.com/v5/subway/1000/-/-/-?c=14185859.7985272,4345214.9315640,15,0,0,0,dh" target="_blank"><img src="subway17.png"></a></span>
+                </div>
+            </td>
+            <td width="280px" align="right" style="vertical-align:bottom;">
+                <a href="http://ideadream.iptime.org:8080/eatout/main.html"><img src="logo.png"></a>
+            </td>
+        </tr>
+        <tr>
+            <td colspan="2"><hr style="border:1px solid #707070;"></td>
+        </tr>
+        </table>
+     </header>
+     <section>
+        <img src="thumnail3.png" style="vertical-align:middle;margin:0 1vw 1vh;">
+        <div style="display:inline-block;vertical-align:middle;">
+            <h1>두껍삼</h1>
+            <p class="star"><img src="star.png" class="star">4.46<span class="fullscore">/5</span></p>
+            <p>14:00 ~ 23:00 | 02-855-3592<br>단체석, 주차, 배달, 예약, 무선 인터넷, 남/녀 화장실 구분, 지역화폐(지류형), 지역화폐(카드형), 지역화폐(모바일형), 제로페이</p>
+        </div>
+        <p style="background:#EBEBEB;border-radius:15px;padding:1em;"><strong>Editor 홍</strong><img src="speak.png" style="vertical-align:middle;margin:0 10px;"><br>엄선된 원육을 두껍삼만의 숙성비전이 담겨있는 최적의 온도와 시간에서 숙성시킨 건강하고 맛있는 숙성육을 만듬. 숙성된 고기만 제공하는 것이 아니라 맛있는 고기를 먹을 수 있도록 그릴링에 숙련된 직원이 직접 구워주는 고기집</p>
+        <div style="display:inline-block;width:49.5%;">
+            <h3>메뉴</h3>
+            <div style="display:inline-block;width:49%;border-right:1px solid #707070;">
+                <table width="90%" style="margin:0.3vw 0.3vw 0.3vw 0;">
+                <tr>
+                <td>숙성삼겹살(150g)</td>
+                <td style="text-align:right;">15,000</td>
+                </tr>
+                <tr>
+                <td>숙성목살(150g)</td>
+                <td style="text-align:right;">15,000</td>
+                </tr>
+                <tr>
+                <td>숙성가브리살(130g)</td>
+                <td style="text-align:right;">17,000</td>
+                </tr>
+                <tr>
+                <td>숙성항정살(130g)</td>
+                <td style="text-align:right;">17,000</td>
+                </tr>
+                <tr>
+                <td>특수부위(가브리살65g+항정살65g)</td>
+                <td style="text-align:right;">17,000</td>
+                </tr>
+                </table>
+            </div>
+            <div style="display:inline-block;width:49%;">
+                <table width="90%" style="margin:0.3vw 0.3vw 0.3vw 0;">
+                <tr>
+                <td>꽃살(150g)</td>
+                <td style="text-align:right;">27,000</td>
+                </tr>
+                <tr>
+                <td>육회(200g)</td>
+                <td style="text-align:right;">27,000</td>
+                </tr>
+                <tr>
+                <td>시골된장찌개</td>
+                <td style="text-align:right;">3,000</td>
+                </tr>
+                <tr>
+                <td>묵은지뚝배기</td>
+                <td style="text-align:right;">7,000</td>
+                </tr>
+                <tr>
+                <td>묵은지소면</td>
+                <td style="text-align:right;">6,000</td>
+                </tr>
+                <tr>
+                <td>칡냉면</td>
+                <td style="text-align:right;">6,000</td>
+                </tr>
+                </table>
+            </div>
+            <h3 style="margin-top:2em;">찾아가는 길</h3>
+            <p style="display:inline-block;width:86%;">서울 금천구 벚꽃로38길 43<br>- 가산디지털단지역 1번 출구에서 280m</p>
+            <a href="http://naver.me/IIqff0ry" target="_blank"><img src="navermap.png" style="display:inline-block;vertical-align:bottom;" width="12%">
+            <img src="map5.png" width="100%"></a>
+        </div>
+        <div style="display:inline-block;width:49.5%;">
+            <h3>리뷰</h3>
+            <img src="starbig.png" style="margin:0.3vw;vertical-align:middle;margin-left:2vw;width:10%;">
+            <img src="starbig.png" style="margin:0.3vw;vertical-align:middle;width:10%;">
+            <img src="starbig.png" style="margin:0.3vw;vertical-align:middle;width:10%;">
+            <img src="starbig.png" style="margin:0.3vw;vertical-align:middle;width:10%;">
+            <img src="halfstar.png" style="margin:0.3vw;vertical-align:middle;width:10%;">
+            <!--<img src="minusstar.png" style="position:relative;margin-left:-44px;vertical-align:middle;width:5.5%;">-->
+            <p style="display:inline-block;margin:2vw;vertical-align:middle;">4.46<span class="fullscore">/5<br>(229명 참여)</span></p>
+            <div align="center" width="100%">
+                <img src="image017.png" class="pic">
+                <img src="image018.png" class="pic">
+                <img src="image019.png" class="pic">
+                <img src="image020.png" class="pic">
+                <img src="image021.png" class="pic">
+                <img src="image022.png" class="pic">
+                <img src="image023.png" class="pic">
+                <img src="image024.png" class="pic">
+            </div>
+        </div>
+     </section>
+ </body>
+</html>

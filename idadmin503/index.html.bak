@@ -1,0 +1,43 @@
+<!DOCTYPE HTML>
+<html>
+    <head>
+        <title>2021 융합콘텐츠 창업지원 교육멘토링 관리자페이지</title>
+        <meta name="Generator" content="ideadream">
+        <meta name="Author" content="dhkdneodrmf">
+        <meta name="Keywords" content="경기콘텐츠진흥원">
+        <meta name="Description" content="경기콘텐츠진흥원 2021 융합콘텐츠 창업지원 교육멘토링 안내/예약 사이트">
+        <meta charset="utf-8">
+        <link rel="preconnect" href="https://fonts.gstatic.com">
+        <link href="https://fonts.googleapis.com/css2?family=Nanum+Gothic:wght@400;700;800&display=swap" rel="stylesheet">
+        <link rel="stylesheet" href="../css/basic.css">
+        <!--<script src="script/prefixfree.min.js"></script>-->
+    </head>
+    <body>
+        <header class="wrapping">
+            <h1 id="title"><a href="http://keep.ideadream.co.kr/idadmin503/index.html">아이디어드림 관리자페이지</a></h1>
+        </header>
+        <aside>
+            <ul>
+                <li><a href="#">세미나</a></li>
+                    <ul>
+                        <li><a href="#">세미나 현황</a><li>
+                        <li><a href="#">세미나 등록</a><li>
+                    </ul>
+                <li><a href="#">멘토링</a></li>
+                    <ul>
+                        <li><a href="#">멘토링등록</a><li>
+                        <li><a href="#">접수확인</a><li>
+                    </ul>
+            </ul>
+        </aside>
+        <section class="wrapping">
+            <h2>접수확인</h2>
+        </section>
+        <footer class="wrapping">
+            <div id="title">
+            <h1><a href="http://keep.ideadream.co.kr/">2021 융합콘텐츠 창업지원 교육멘토링</a></h1>
+            <p>COPYRIGHT ©(주)아이디어드림 ALL RIGHTS RESERVED.</p>
+            </div>
+        </footer>
+    </body>
+</html>

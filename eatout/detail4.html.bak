@@ -1,0 +1,155 @@
+<!DOCTYPE HTML>
+<html>
+ <head>
+      <title> 아이디어드림 고기파티 상세 </title>
+      <meta name="Generator" content="joyeongrae">
+      <meta name="Author" content="ideadream">
+      <meta name="Keywords" content="고기파티">
+      <meta name="Description" content="고기파티 안내">
+      <meta charset="utf-8">
+      <style>
+        body {
+            font-family: 'GoyangDeogyang EB', 'Nanum Gothic', sans-serif;
+            width:80%;
+            margin:0 auto;
+        }
+        section {
+            margin:2vh 0;
+        }
+        h1,h2 {
+            margin:0;
+        }
+        .fullscore {
+            color:#808080;
+        }
+        div.star {
+            position:absolute;
+            width:37%;
+        }
+        span.star {
+            position:relative;
+            top:15px;
+        }
+        img.star {
+            vertical-align:middle;
+            padding:0 3px 5px;
+            width:20px;
+        }
+        a {
+            text-decoration:none;
+            color:inherit;
+        }
+        .pic {
+            margin:2px;
+            width:160px;
+            height:160px;
+            object-fit:cover;
+        }
+      </style>
+ </head>
+
+ <body>
+     <header>
+        <table width="100%">
+        <tr>
+            <td>
+                <h1 style="display:inline-block;font-size:35px;">고기파티<br>가산디지털단지 - 삼겹살</h1>
+                <div style="position:absolute;">
+                <span style="position:absolute;left:150px;bottom:40px;"><a href="https://map.naver.com/v5/subway/1000/-/-/-?c=14185859.7985272,4345214.9315640,15,0,0,0,dh" target="_blank"><img src="subway17.png"></a></span>
+                </div>
+            </td>
+            <td width="280px" align="right" style="vertical-align:bottom;">
+                <a href="http://ideadream.iptime.org:8080/eatout/main.html"><img src="logo.png"></a>
+            </td>
+        </tr>
+        <tr>
+            <td colspan="2"><hr style="border:1px solid #707070;"></td>
+        </tr>
+        </table>
+     </header>
+     <section>
+        <img src="thumnail4.png" style="vertical-align:middle;margin:0 1vw 1vh;">
+        <div style="display:inline-block;vertical-align:middle;">
+            <h1>동대문털보네</h1>
+            <p class="star"><img src="star.png" class="star">4.64<span class="fullscore">/5</span></p>
+            <p>주중 16:00 ~ 23:00 토 15:30~21:00 | 02-2649-0449<br>단체석, 주차, 포장, 예약, 남/녀 화장실 구분</p>
+        </div>
+        <p style="background:#EBEBEB;border-radius:15px;padding:1em;"><strong>Editor 홍</strong><img src="speak.png" style="vertical-align:middle;margin:0 10px;"><br>돼지고기에 일정한 간격의 칼집을 내 고기 속까지 금방 익으면서 겉은 바삭하게 구워지는 돼지고기집. 돼지고기 외에도 소막창도 함께 판매해 한 불판에서 돼지 삼겹살과 소 막창을 함께 즐길 수 있는 집.</p>
+        <div style="display:inline-block;width:49.5%;">
+            <h3>메뉴</h3>
+            <div style="display:inline-block;width:49%;border-right:1px solid #707070;">
+                <table width="90%" style="margin:0.3vw 0.3vw 0.3vw 0;">
+                <tr>
+                <td>칼집항정살</td>
+                <td style="text-align:right;">13,000</td>
+                </tr>
+                <tr>
+                <td>칼집삼겹살</td>
+                <td style="text-align:right;">13,000</td>
+                </tr>
+                <tr>
+                <td>이베리코늑간살</td>
+                <td style="text-align:right;">13,000</td>
+                </tr>
+                <tr>
+                <td>갈비양념 갈매기살</td>
+                <td style="text-align:right;">13,000</td>
+                </tr>
+                <tr>
+                <td>칼집목살</td>
+                <td style="text-align:right;">13,000</td>
+                </tr>
+                </table>
+            </div>
+            <div style="display:inline-block;width:49%;">
+                <table width="90%" style="margin:0.3vw 0.3vw 0.3vw 0;">
+                <tr>
+                <td>소갈비살</td>
+                <td>15,000</td>
+                </tr>
+                <tr>
+                <td>소막창</td>
+                <td>13,000</td>
+                </tr>
+                <tr>
+                <td>돼지껍데기</td>
+                <td>8,000</td>
+                </tr>
+                <tr>
+                <td>차돌된장찌개</td>
+                <td>6,000</td>
+                </tr>
+                <tr>
+                <td>함흥냉면</td>
+                <td>6,000</td>
+                </tr>
+                </table>
+            </div>
+            <h3 style="margin-top:2em;">찾아가는 길</h3>
+            <p style="display:inline-block;width:86%;">서울 금천구 디지털로9길 99 스타밸리 127호<br>- 가산디지털단지역 3번 출구에서 128m</p>
+            <a href="http://naver.me/GFpefD6P" target="_blank"><img src="navermap.png" style="display:inline-block;vertical-align:bottom;" width="12%">
+            <img src="map6.png" width="100%"></a>
+        </div>
+        <div style="display:inline-block;width:49.5%;">
+            <h3>리뷰</h3>
+            <img src="starbig.png" style="margin:0.3vw;vertical-align:middle;margin-left:2vw;width:10%;">
+            <img src="starbig.png" style="margin:0.3vw;vertical-align:middle;width:10%;">
+            <img src="starbig.png" style="margin:0.3vw;vertical-align:middle;width:10%;">
+            <img src="starbig.png" style="margin:0.3vw;vertical-align:middle;width:10%;">
+            <img src="halfstar.png" style="margin:0.3vw;vertical-align:middle;width:10%;">
+            <!--<img src="minusstar.png" style="position:relative;margin-left:-44px;vertical-align:middle;width:5.5%;">-->
+            <p style="display:inline-block;margin:2vw;vertical-align:middle;">4.64<span class="fullscore">/5<br>(168명 참여)</span></p>
+            <div align="center" width="100%">
+                <img src="image025.png" class="pic">
+                <img src="image026.png" class="pic">
+                <img src="image027.png" class="pic">
+                <img src="image028.png" class="pic">
+                <img src="image029.png" class="pic">
+                <img src="image030.png" class="pic">
+                <img src="image031.png" class="pic">
+                <img src="image032.png" class="pic">
+            </div>
+        </div>
+     </section>
+ </body>
+</html>

@@ -1,0 +1,184 @@
+<!DOCTYPE HTML>
+<html>
+ <head>
+      <title> 아이디어드림 고기파티 기타 </title>
+      <meta name="Generator" content="joyeongrae">
+      <meta name="Author" content="ideadream">
+      <meta name="Keywords" content="고기파티">
+      <meta name="Description" content="고기파티 안내">
+      <meta charset="utf-8">
+      <style>
+        body {
+            font-family: 'GoyangDeogyang EB', 'Nanum Gothic', sans-serif;
+            width:80%;
+            margin:0 auto;
+        }
+        section {
+            margin:20px 0;
+        }
+        .left {
+            display:inline;
+            vertical-align:middle;
+            width:50%;
+        }
+        .right {
+            width:47%;
+        }
+        div.lavel {
+            border:1px solid #808080;
+            border-radius:15px;
+            text-align:left;
+            padding:1.5% 2%;
+            margin:3% 0;
+        }
+        div.lavel:hover {
+            color:#FFFFFF;
+            background:#6EB2FF;
+        }
+        h1 {
+            margin:0;
+        }
+        h2 {
+            margin:1.5vh 0;
+        }
+        p {
+            margin:1.5vh 0;
+        }
+        .lavelnumber {
+            border:1px solid #707070;
+            border-radius:50%;
+            padding:15px 0 10px 0;
+            font-size:35px;
+            float:left;
+            margin-top:2.5vh;
+            width:60px;
+           /* height:60px;*/
+            display:inline-block;
+            text-align:center;
+        }
+        .round {
+            border-radius:30px;
+            width:100%
+        }
+        .fullscore {
+            color:#808080;
+        }
+        .content {
+            display:inline-block;
+            width:31.5vw;
+            margin:0 10px;
+        }
+        div.star {
+            position:absolute;
+            width:37%;
+        }
+        span.star {
+            position:relative;
+            top:15px;
+        }
+        img.star {
+            vertical-align:middle;
+            padding:0 3px 5px;
+            width:20px;
+        }
+        a {
+            text-decoration:none;
+            color:inherit;
+        }
+       /* .pin {
+            position:absolute;
+        }
+        .pinstring {
+            position:absolute;
+            left:6.2%;
+            margin-top:3%;
+            color:#FFFFFF;
+            background:#6EB2FF;
+            font-size:35px;
+            border-radius:50%;
+            padding:0 12.5px 5px;
+        } */
+      </style>
+ </head>
+
+ <body>
+     <header>
+        <table width="100%">
+        <tr>
+            <td>
+                <h1 style="display:inline-block;font-size:35px;">고기파티<br>가산디지털단지 - 그 외 기타</h1>
+                <div style="position:absolute;">
+                <span style="position:absolute;left:150px;bottom:40px;"><a href="https://map.naver.com/v5/subway/1000/-/-/-?c=14185859.7985272,4345214.9315640,15,0,0,0,dh" target="_blank"><img src="subway17.png"></a></span>
+                </div>
+            </td>
+            <td width="280px" align="right" style="vertical-align:bottom;">
+                <a href="http://ideadream.iptime.org:8080/eatout/main.html"><img src="logo.png"></a>
+            </td>
+        </tr>
+        <tr>
+            <td colspan="2"><hr style="border:1px solid #707070;"></td>
+        </tr>
+        </table>
+     </header>
+     <section>
+        <table width="100%">
+        <tr>
+            <td class="left">
+                <div class="lavel">
+                    <a href="http://ideadream.iptime.org:8080/eatout/detail6.html">
+                    <div align="right" class="star">
+                    <span class="star"><img src="star.png" class="star">4.44<span class="fullscore">/5</span></span>
+                    </div>
+                    <div class="lavelnumber">A</div>
+                    <div class="content">
+                    <h2>가산물갈비&백년불고기</h2>
+                    <p>가산디지털1로 128 STX V 타워 110호<br>물갈비 15,000원  ｜  오삼불고기 12,000원</p>
+                    </div>
+                    </a>
+                </div>
+                <div class="lavel">
+                    <a href="http://ideadream.iptime.org:8080/eatout/detail7.html">
+                    <div align="right" class="star">
+                    <span class="star"><img src="star.png" class="star">4.31<span class="fullscore">/5</span></span>
+                    </div>
+                    <div class="lavelnumber">B</div>
+                    <div class="content">
+                    <h2>흑백집</h2>
+                    <p>가산디지털1로 131 BYC하이시티 지하 1층 <br>파김치주물럭 9,000원  ｜  매운쭈꾸미 9,000원</p>
+                    </div>
+                    </a>
+                </div>
+                <div class="lavel">
+                    <a href="http://ideadream.iptime.org:8080/eatout/detail8.html">
+                    <div align="right" class="star">
+                    <span class="star"><img src="star.png" class="star">4.62<span class="fullscore">/5</span></span>
+                    </div>
+                    <div class="lavelnumber">C</div>
+                    <div class="content">
+                    <h2>편백가원</h2>
+                    <p>디지털로 10길 9 현대시티아울렛 6층 612호<br>소고기편백찜 런치 12,900원 ｜ 소고기편백찜 디너 14,900원</p>
+                    </div>
+                    </a>
+                </div>
+            </td>
+            <td width="2%"></td>
+            <td class="right">
+               <!-- <div class="pin" style="top:60vh;left:61vw;">
+                    <img src="pin.png">
+                    <span class="pinstring">A</span>
+                </div>
+                <div class="pin" style="top:60vh;left:55vw;">
+                    <img src="pin.png">
+                    <span class="pinstring">B</span>
+                </div>
+                <div class="pin" style="top:55vh;left:80vw;">
+                    <img src="pin.png">
+                    <span class="pinstring">C</span>
+                </div> -->
+                <a href="http://naver.me/xga4dhga" target="_blank"><img src="map2.png" width="100%" height="100%"></a>
+            </td>
+        </tr>
+        </table>
+     </section>
+ </body>
+</html>

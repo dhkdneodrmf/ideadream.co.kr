@@ -1,0 +1,113 @@
+<!DOCTYPE HTML>
+<html>
+    <head>
+        <title>2021 융합콘텐츠 창업지원 교육멘토링 멘토링 신청완료 페이지</title>
+        <meta name="Generator" content="ideadream">
+        <meta name="Author" content="dhkdneodrmf">
+        <meta name="Keywords" content="경기콘텐츠진흥원">
+        <meta name="Description" content="경기콘텐츠진흥원 2021 융합콘텐츠 창업지원 교육멘토링 안내/예약 사이트">
+        <meta charset="utf-8">
+        <link rel="preconnect" href="https://fonts.gstatic.com">
+        <link href="https://fonts.googleapis.com/css2?family=Nanum+Gothic:wght@400;700;800&display=swap" rel="stylesheet">
+        <link rel="stylesheet" href="css/basic.css">
+    </head>
+    <body>
+        <header class="wrapping">
+            <h1 id="title"><a href="http://keep.ideadream.co.kr/">2021 융합콘텐츠 창업지원 교육멘토링</a></h1>
+            <ul id="menu">
+                <li><a href="http://keep.ideadream.co.kr/edulist.html">창업교육</a></li>
+                <li><a href="http://keep.ideadream.co.kr/mentoringlist.html">멘토링</a></li>
+            </ul>
+        </header>
+        <div id="backgroundgray">
+            <section class="wrapping" id="detail">
+                <p></p>
+                <div>
+                    <h2 class="complete">2021 융합콘텐츠<br> 창업지원 멘토링 신청되었습니다.</h2>
+                    <hr>
+                    <span class="titlemark"></span>
+                    <h4>신청 멘토링</h4>
+                    <table class="infotb">
+                    <tr>
+                        <td>멘토링 명</td>
+                        <td>1st 멘토링데이 '창업준비'</td>
+                    </tr>
+                    <tr>
+                        <td>멘토링 분야</td>
+                        <td>창업준비 - 창업자금, 지식재산권, 창업경영, BM 등</td>
+                    </tr>
+                    <tr>
+                        <td>멘토링 일정</td>
+                        <td>2021년 7월 1일 목요일 10:00 ~ 18:00</td>
+                    </tr>
+                    <tr>
+                        <td>진행 방법</td>
+                        <td>팀당 1시간씩 1:1 대면으로 진행</td>
+                    </tr>
+                    <tr>
+                        <td>진행 장소</td>
+                        <td>북부창조허브</td>
+                    </tr>
+                    </table>
+                    <span class="titlemark"></span>
+                    <h4>신청 멘토</h4>
+                    <table class="infotb">
+                    <tr>
+                        <td>멘토명</td>
+                        <td>김연진</td>
+                    </tr>
+                    <tr>
+                        <td>멘토 전문분야</td>
+                        <td>아이디어발상, BM개발, 프리젠테이션, HR, 리더십</td>
+                    </tr>
+                    <tr>
+                        <td>신청일자</td>
+                        <td>7월 1일(목)10:00 ~ 11:00 (1시간)</td>
+                    </tr>
+                    </table>
+                    <span class="titlemark"></span>
+                    <h4>신청자 정보</h4>
+                    <table class="infotb">
+                    <tr>
+                        <td>신청자명</td>
+                        <td>홍창범</td>
+                    </tr>
+                    <tr>
+                        <td>모바일</td>
+                        <td>010&nbsp&nbsp - &nbsp&nbsp 9459 &nbsp&nbsp- &nbsp&nbsp 9467</td>
+                    </tr>
+                    <tr>
+                        <td>이메일</td>
+                        <td>lightfnsk&nbsp&nbsp@ &nbsp&nbsp naver.com</td>
+                    </tr>
+                    <tr>
+                        <td>창업구분</td>
+                        <td><input type="radio" id="prefounder" name="startupdiv" value="prefounder" checked disabled><label for="prefounder">예비창업자</label><input type="radio" id="startupfounder" name="startupdiv" value="startupfounder" disabled><label for="startupfounder">창업기업</label></td>
+                    </tr>
+                    <tr>
+                        <td>회사 명</td>
+                        <td>(주)디땅</td></td>
+                    </tr>
+                    <tr>
+                        <td>멘토링<br>질의사항</td>
+                        <td>멘토링에서 궁금한게 있어염 <br> 뿌잉뿌잉</td>
+                    </tr>
+                    </table>
+                </div>
+                <section id="centering">
+                    <input class="applysubmit" type="submit" value="확인" onclick="location.href='http://keep.ideadream.co.kr/mentoringlist.html'">
+                </section>
+            </section>
+        </div>
+        <footer class="wrapping">
+            <div id="title">
+            <h1><a href="http://keep.ideadream.co.kr/">2021 융합콘텐츠 창업지원 교육멘토링</a></h1>
+            <p>COPYRIGHT ©(주)아이디어드림 ALL RIGHTS RESERVED.</p>
+            </div>
+            <div id="qusetion">
+            <h1>교육멘토링 문의</h1>
+            <p>T. 02-706-8290 ｜ M. 010-9459-9467 ｜ E. ideadream@ideadream.co.kr</p>
+            </div>
+        </footer>
+    </body>
+</html>

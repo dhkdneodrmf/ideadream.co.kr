@@ -1,0 +1,147 @@
+<!DOCTYPE HTML>
+<html>
+ <head>
+      <title> 아이디어드림 고기파티 상세 </title>
+      <meta name="Generator" content="joyeongrae">
+      <meta name="Author" content="ideadream">
+      <meta name="Keywords" content="고기파티">
+      <meta name="Description" content="고기파티 안내">
+      <meta charset="utf-8">
+      <style>
+        body {
+            font-family: 'GoyangDeogyang EB', 'Nanum Gothic', sans-serif;
+            width:80%;
+            margin:0 auto;
+        }
+        section {
+            margin:2vh 0;
+        }
+        h1,h2 {
+            margin:0;
+        }
+        .fullscore {
+            color:#808080;
+        }
+        div.star {
+            position:absolute;
+            width:37%;
+        }
+        span.star {
+            position:relative;
+            top:15px;
+        }
+        img.star {
+            vertical-align:middle;
+            padding:0 3px 5px;
+            width:20px;
+        }
+        a {
+            text-decoration:none;
+            color:inherit;
+        }
+        .pic {
+            margin:2px;
+            width:160px;
+            height:160px;
+            object-fit:cover;
+        }
+      </style>
+ </head>
+
+ <body>
+     <header>
+        <table width="100%">
+        <tr>
+            <td>
+                <h1 style="display:inline-block;font-size:35px;">고기파티<br>가산디지털단지 - 삼겹살</h1>
+                <div style="position:absolute;">
+                <span style="position:absolute;left:150px;bottom:40px;"><a href="https://map.naver.com/v5/subway/1000/-/-/-?c=14185859.7985272,4345214.9315640,15,0,0,0,dh" target="_blank"><img src="subway17.png"></a></span>
+                </div>
+            </td>
+            <td width="280px" align="right" style="vertical-align:bottom;">
+                <a href="http://ideadream.iptime.org:8080/eatout/main.html"><img src="logo.png"></a>
+            </td>
+        </tr>
+        <tr>
+            <td colspan="2"><hr style="border:1px solid #707070;"></td>
+        </tr>
+        </table>
+     </header>
+     <section>
+        <img src="thumnail1.png" style="vertical-align:middle;margin:0 1vw 1vh;">
+        <div style="display:inline-block;vertical-align:middle;">
+            <h1>고기원칙</h1>
+            <p class="star"><img src="star.png" class="star">4.33<span class="fullscore">/5</span></p>
+            <p>11:00~22:00 BT 15:00~17:00 | 02-6244-8879<br>단체석, 예약, 무선인터넷, 남/녀화장실 구분, 주차가능</p>
+        </div>
+        <p style="background:#EBEBEB;border-radius:15px;padding:1em;"><strong>Editor 홍</strong><img src="speak.png" style="vertical-align:middle;margin:0 10px;"><br>항아리에 72시간 숙성시킨 돼지고기를 맛볼 수 있는 집으로 풍부한 육즙과 부드러운 식감을 느낄 수 있는 고기집</p>
+        <div style="display:inline-block;width:49.5%;">
+            <h3>메뉴</h3>
+            <div style="display:inline-block;width:49%;border-right:1px solid #707070;">
+                <table width="90%" style="margin:0.3vw 0.3vw 0.3vw 0;">
+                <tr>
+                <td>숙성삼겹(170g)</td>
+                <td style="text-align:right;">13,000</td>
+                </tr>
+                <tr>
+                <td>꽃목살(170g)</td>
+                <td style="text-align:right;">13,000</td>
+                </tr>
+                <tr>
+                <td>황제덧살(170g)</td>
+                <td style="text-align:right;">14,000</td>
+                </tr>
+                <tr>
+                <td>와규(150g)</td>
+                <td style="text-align:right;">19,000</td>
+                </tr>
+                </table>
+            </div>
+            <div style="display:inline-block;width:49%;">
+                <table width="90%" style="margin:0.3vw 0.3vw 0.3vw 0;">
+                <tr>
+                <td>김치말이국수(물/비빔)</td>
+                <td>5,000</td>
+                </tr>
+                <tr>
+                <td>청어알비빔밥</td>
+                <td>4,500</td>
+                </tr>
+                <tr>
+                <td>바지락된장찌개</td>
+                <td>4,000</td>
+                </tr>
+                <tr>
+                <td>계란찜 </td>
+                <td>3,000</td>
+                </tr>
+                </table>
+            </div>
+            <h3 style="margin-top:2em;">찾아가는 길</h3>
+            <p style="display:inline-block;width:86%;">서울 금천구 가산디지털 1로 171 SK V1 센터 203호<br>- 가산디지털단지역 6번출구에서 49M</p>
+            <a href="http://naver.me/GKoa0BV8" target="_blank"><img src="navermap.png" style="display:inline-block;vertical-align:bottom;" width="12%">
+            <img src="map3.png" width="100%"></a>
+        </div>
+        <div style="display:inline-block;width:49.5%;">
+            <h3>리뷰</h3>
+            <img src="starbig.png" style="margin:0.3vw;vertical-align:middle;margin-left:2vw;width:10%;">
+            <img src="starbig.png" style="margin:0.3vw;vertical-align:middle;width:10%;">
+            <img src="starbig.png" style="margin:0.3vw;vertical-align:middle;width:10%;">
+            <img src="starbig.png" style="margin:0.3vw;vertical-align:middle;width:10%;">
+            <img src="halfstar.png" style="margin:0.3vw;vertical-align:middle;width:10%;">
+            <!--<img src="minusstar.png" style="position:relative;margin-left:-44px;vertical-align:middle;width:5.5%;">-->
+            <p style="display:inline-block;margin:2vw;vertical-align:middle;">4.33<span class="fullscore">/5<br>(147명 참여)</span></p>
+            <div align="center" width="100%">
+                <img src="image001.png" class="pic">
+                <img src="image002.png" class="pic">
+                <img src="image003.png" class="pic">
+                <img src="image004.png" class="pic">
+                <img src="image005.png" class="pic">
+                <img src="image006.png" class="pic">
+                <img src="image007.png" class="pic">
+                <img src="image008.png" class="pic">
+            </div>
+        </div>
+     </section>
+ </body>
+</html>

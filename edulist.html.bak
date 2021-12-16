@@ -1,0 +1,110 @@
+<!DOCTYPE HTML>
+<html>
+    <head>
+        <title>2021 융합콘텐츠 창업지원 교육멘토링 교육리스트</title>
+        <meta name="Generator" content="ideadream">
+        <meta name="Author" content="dhkdneodrmf">
+        <meta name="Keywords" content="경기콘텐츠진흥원">
+        <meta name="Description" content="경기콘텐츠진흥원 2021 융합콘텐츠 창업지원 교육멘토링 안내/예약 사이트">
+        <meta charset="utf-8">
+        <link rel="preconnect" href="https://fonts.gstatic.com">
+        <link href="https://fonts.googleapis.com/css2?family=Nanum+Gothic:wght@400;700;800&display=swap" rel="stylesheet">
+        <link rel="stylesheet" href="css/basic.css">
+    </head>
+    <body>
+        <header class="wrapping">
+            <h1 id="title"><a href="http://keep.ideadream.co.kr/">2021 융합콘텐츠 창업지원 교육멘토링</a></h1>
+            <ul id="menu">
+                <li><a href="http://keep.ideadream.co.kr/edulist.html">창업교육</a></li>
+                <li><a href="#">멘토링</a></li>
+            </ul>
+        </header>
+        <div id="backgroundgray">
+            <section class="wrapping">
+                <h1>창업교육</h1>
+                <p class="dir"> 메인  >  창업교육</p>
+                <hr>
+                <a href="#" class="fliter">융합콘텐츠 창업지원</a>
+                <article class="list">
+                    <p>전체 8건</p>
+                    <form>
+                        <select size="1">
+                            <option value="제목" selected>제목</option>
+                            <option value="유형">유형</option>
+                            <option value="강사명">강사명</option>
+                            <option value="제목과내용">제목+내용</option>
+                        </select>
+                        <input type="text" name="search">
+                        <button type="button" onclick="alert('검색 버튼 클릭함.')">검색</button>
+                    </form>
+                    <a href="http://keep.ideadream.co.kr/edudetail1.html">
+                        <img src="img/thumbnail0001.png" alt="선행기술조사">
+                        <p>융합콘텐츠 창업지원</p>
+                        <p>성공하는 비즈니스 모델의 구성요소 및 구축전략</p>
+                        <p>김연진</p>
+                        <p>2021.06.15 (화)</p>
+                    </a>
+                    <a href="#">
+                        <img src="img/thumbnail0002.png" alt="스타트업 재무분석">
+                        <p>융합콘텐츠 창업지원</p>
+                        <p>린스타트업기반 시장검증과 마케팅 전략 수립</p>
+                        <p>박준석</p>
+                        <p>2021.06.22 (화)</p>
+                    </a>
+                    <a href="#">
+                        <img src="img/thumbnail0003.png" alt="지식재산권 이해">
+                        <p>융합콘텐츠 창업지원</p>
+                        <p>제품(하드웨어) 개발의 이해</p>
+                        <p>신영환</p>
+                        <p>2021.06.29 (화)</p>
+                    </a>
+                    <a href="#">
+                        <img src="img/thumbnail0004.png" alt="특허명세서 구조와 작성">
+                        <p>융합콘텐츠 창업지원</p>
+                        <p>소프트웨어(사이트/플랫폼) 개발의 이해</p>
+                        <p>빅성호</p>
+                        <p>2021.07.06 (화)</p>
+                    </a>
+                    <a href="#">
+                        <img src="img/thumbnail0005.png" alt="특허 및 실용신안 등록실무">
+                        <p>융합콘텐츠 창업지원</p>
+                        <p>오픈클래스 : 선배기업 초청특강</p>
+                        <p>한상미, 신우열</p>
+                        <p>2021.07.13 (화)</p>
+                    </a>
+                    <a href="#">
+                        <img src="img/thumbnail0006.png" alt="눈뜨는 창의성">
+                        <p>융합콘텐츠 창업지원</p>
+                        <p>스타트업을 위한 법률, 세무, 회계 상식</p>
+                        <p>배기완</p>
+                        <p>2021.07.20 (화)</p>
+                    </a>
+                    <a href="#">
+                        <img src="img/thumbnail0007.png" alt="발명특허입문과정">
+                        <p>융합콘텐츠 창업지원</p>
+                        <p>특허와 지식재산권 그리고 IP금융의 이해</p>
+                        <p>강현모</p>
+                        <p>2021.07.27 (화)</p>
+                    </a>
+                    <a href="#">
+                        <img src="img/thumbnail0008.png" alt="특허지원자금 및 신청서 작성">
+                        <p>융합콘텐츠 창업지원</p>
+                        <p>IR 역량강화&초기상품 판매, 마케팅 전략</p>
+                        <p>명윤호, 이지훈</p>
+                        <p>2021.08.03 (화)</p>
+                    </a>
+                </article>
+            </section>
+        </div>
+        <footer class="wrapping">
+            <div id="title">
+            <h1><a href="http://keep.ideadream.co.kr/">2021 융합콘텐츠 창업지원 교육멘토링</a></h1>
+            <p>COPYRIGHT ©(주)아이디어드림 ALL RIGHTS RESERVED.</p>
+            </div>
+            <div id="qusetion">
+            <h1>교육멘토링 문의</h1>
+            <p>T. 02-706-8290 ｜ M. 010-9459-9467 ｜ E. ideadream@ideadream.co.kr</p>
+            </div>
+        </footer>
+    </body>
+</html>
